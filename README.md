@@ -72,7 +72,7 @@ I was curious, when web browsers, such as Google, make updates, does that entail
 More specifically, when I open a website and an image doesn't pop up because it's not up to date, how do you update that website?
 Additionally, I noticed that JavaScript and Java have very similar syntax, I have no experience in JavaScript but 
 I do have experience in Java, and I was wondering if you can do the things you can do in Java as well in JavaScript? 
-I'm not referring to loops, I'm more referring to data structures and algorithms, because I learned you can do a loop or an
+I'm not referring to loops, I'm more referring to advanced data structures and algorithms, because I learned you can do a loop or an
 if-statement, but could you do more advanced things?  
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
