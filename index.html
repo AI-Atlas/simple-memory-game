@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+
+    <title>Hello world!</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <!-- this is the start of content -->
+    <h1>
+      Notes and Sound Memory Game
+    </h1>
+    <p>
+      Welcome to the game!
+    </p>
+    <button id="startBtn" onclick="startGame()">Start</button>
+    <button id="stopBtn" class="hidden" onclick="stopGame()">End</button>
+    
+    <audio src="https://cdn.glitch.global/f5498969-e080-453e-9178-72e5fc34a2fc/notes_A.mp3?v=1647830853757" id="myAudio1"></audio>
+    <audio src="https://cdn.glitch.global/f5498969-e080-453e-9178-72e5fc34a2fc/notes_Ab.mp3?v=1647846524994" id="myAudio2"></audio>
+    <audio src="https://cdn.glitch.global/f5498969-e080-453e-9178-72e5fc34a2fc/notes_B.mp3?v=1647846529403" id="myAudio3"></audio>
+    <audio src="https://cdn.glitch.global/f5498969-e080-453e-9178-72e5fc34a2fc/notes_Bb.mp3?v=1647846532738" id="myAudio4"></audio>
+    <audio src="https://cdn.glitch.global/f5498969-e080-453e-9178-72e5fc34a2fc/notes_C.mp3?v=1647830860525" id="myAudio5"></audio>
+    <audio src="https://cdn.glitch.global/f5498969-e080-453e-9178-72e5fc34a2fc/notes_D.mp3?v=1647846535685" id="myAudio6"></audio>
+    
+    <div id="gameButtonArea">
+      <button id="button1" onclick="guess(1)" onmousedown="startTone(1)" onmouseup="stopTone()"></button>
+      <button id="button2" onclick="guess(2)" onmousedown="startTone(2)" onmouseup="stopTone()"></button>
+      <button id="button3" onclick="guess(3)" onmousedown="startTone(3)" onmouseup="stopTone()"></button>
+      <button id="button4" onclick="guess(4)" onmousedown="startTone(4)" onmouseup="stopTone()"></button>
+      <button id="button5" onclick="guess(5)" onmousedown="startTone(5)" onmouseup="stopTone()"></button>     
+      <button id="button6" onclick="guess(6)" onmousedown="startTone(6)" onmouseup="stopTone()"></button>     
+
+    </div>
+  </body>
+</html>
