@@ -77,7 +77,7 @@ if-statement, but could you do more advanced things?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
-If I had a few more hours I would spend them furnishing the buttons' appearance and implementing the chords. I didn't want to build a piano,
+If I had a few more hours I would spend them refurbishing the buttons' appearance and implementing the chords. I didn't want to build a piano,
 I wanted to build a sort of piano except when you press a button, it plays a chord, and a chord consists of three notes. 
 Moreover, I wanted to be able to make it so there's a specific chord for every button, which would take while to do, 
 but I wanted to do that because I thought it'd be interesting to see, using the randomPattern function, to play a randomly
