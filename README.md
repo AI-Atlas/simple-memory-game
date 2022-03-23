@@ -6,7 +6,7 @@ Submitted by: Luis JR. Olmos
 
 Time spent: 9 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/developing-pineapple-naranja
 
 ## Required Functionality
 
@@ -88,7 +88,7 @@ this could've been helpful for others as well if they wanted to memorize specifi
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/6ce893325e6147d7849ea0b1e6fa8c50)
 
 
 ## License
