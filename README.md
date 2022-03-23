@@ -6,7 +6,7 @@ Submitted by: Luis JR. Olmos
 
 Time spent: 9 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/developing-pineapple-naranja
 
 ## Required Functionality
 
@@ -72,12 +72,12 @@ I was curious, when web browsers, such as Google, make updates, does that entail
 More specifically, when I open a website and an image doesn't pop up because it's not up to date, how do you update that website?
 Additionally, I noticed that JavaScript and Java have very similar syntax, I have no experience in JavaScript but 
 I do have experience in Java, and I was wondering if you can do the things you can do in Java as well in JavaScript? 
-I'm not referring to loops, I'm more referring to data structures and algorithms, because I learned you can do a loop or an
-if-statement, but could you do more advanced things?  
+I'm not referring to loops, I'm more referring to data structures and algorithms, because I learned you can do a loop or conditionals, 
+but could you do more advanced things?  
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
-If I had a few more hours I would spend them furnishing the buttons' appearance and implementing the chords. I didn't want to build a piano,
+If I had a few more hours I would spend them refurbishing the buttons' appearance and implementing the chords. I didn't want to build a piano,
 I wanted to build a sort of piano except when you press a button, it plays a chord, and a chord consists of three notes. 
 Moreover, I wanted to be able to make it so there's a specific chord for every button, which would take while to do, 
 but I wanted to do that because I thought it'd be interesting to see, using the randomPattern function, to play a randomly
@@ -88,7 +88,7 @@ this could've been helpful for others as well if they wanted to memorize specifi
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/6ce893325e6147d7849ea0b1e6fa8c50)
 
 
 ## License
