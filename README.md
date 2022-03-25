@@ -39,10 +39,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](http://g.recordit.co/B6yMM68P0C.gif)
+![](http://g.recordit.co/wBnTE34m5X.gif) 
 ![](http://g.recordit.co/RBnOy0RO0u.gif)
 ![](http://g.recordit.co/Ve0F5Carxe.gif)
-![](gif4-link-here)
+![](http://g.recordit.co/B6yMM68P0C.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -72,8 +72,8 @@ I was curious, when web browsers, such as Google, make updates, does that entail
 More specifically, when I open a website and an image doesn't pop up because it's not up to date, how do you update that website?
 Additionally, I noticed that JavaScript and Java have very similar syntax, I have no experience in JavaScript but 
 I do have experience in Java, and I was wondering if you can do the things you can do in Java as well in JavaScript? 
-I'm not referring to loops, I'm more referring to advanced data structures and algorithms, because I learned you can do a loop or an
-if-statement, but could you do more advanced things?  
+I'm not referring to loops, I'm more referring to data structures and algorithms, because I learned you can do a loop or conditionals, 
+but could you do more advanced things?  
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
