@@ -99,6 +99,13 @@ function guess(btn){
   }
 }
 /// Sound Synthesis Functions
+/*const freqMap = {
+  1: 261.6,
+  2: 329.6,
+  3: 392,
+  4: 466.2
+}*/
+
 function playTone(btn,len){ 
   if(btn == 1){
       document.getElementById("myAudio1").play();
@@ -113,9 +120,16 @@ function playTone(btn,len){
   }else{
     document.getElementById("myAudio6").play();
   }
+/*o.frequency.value = freqMap[btn]
+  g.gain.setTargetAtTime(volume,context.currentTime + 0.05,0.025)
+  context.resume()
+  tonePlaying = true
+  setTimeout(function(){
+    stopTone()
+  },len)*/
 }
 function startTone(btn){
-  if(!tonePlaying){
+    if(!tonePlaying){
     if(btn == 1){
       document.getElementById("myAudio1").play();
     }else if(btn == 2){
@@ -131,6 +145,13 @@ function startTone(btn){
     }
     tonePlaying = true
   }
+  /*if(!tonePlaying){
+    context.resume()
+    o.frequency.value = freqMap[btn]
+    g.gain.setTargetAtTime(volume,context.currentTime + 0.05,0.025)
+    context.resume()
+    tonePlaying = true
+  }*/
 }
 function stopTone(){
   g.gain.setTargetAtTime(0,context.currentTime + 0.05,0.025)
